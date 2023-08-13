@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Blackchronicler/corseadminapi">
-    <img src="images/logo.png" alt="Logo" width="50" height="80">
+    <img src="images/logo.png" alt="Logo" width="100" height="180">
   </a>
 
 <h3 align="center">Course Administration API</h3>
 
   <p align="center">
-    project_description
+    
     <br />
     <a href="https://github.com/Blackchronicler/corseadminapi"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) # Uncomment this if need be to show intro pic of project-->
 
 The aim of this project is to develop a course administration API using FastAPI and MongoDB.
 The system will allow users to access course details, view chapters, rate individual chapters, and aggregate ratings.
