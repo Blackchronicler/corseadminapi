@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Blackchronicler/corseadminapi">
-    <img src="images/logo.png" alt="Logo" width="100" height="180">
+    <img src="images/logo.png" alt="Logo" width="130" height="180">
   </a>
 
 <h3 align="center">Course Administration API</h3>
