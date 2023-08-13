@@ -205,7 +205,7 @@ Project Link: [https://github.com/Blackchronicler/corseadminapi](https://github.
 [issues-shield]: https://img.shields.io/github/issues/Blackchronicler/corseadminapi.svg?style=for-the-badge
 [issues-url]: https://github.com/Blackchronicler/corseadminapi/issues
 [license-shield]: https://img.shields.io/github/license/Blackchronicler/corseadminapi.svg?style=for-the-badge
-[license-url]: https://github.com/Blackchronicler/corseadminapi/blob/master/LICENSE.txt
+[license-url]: https://github.com/Blackchronicler/corseadminapi/blob/master/LICENSE
 [FastAPI.com]: https://img.shields.io/badge/Fastapi-483D8B?style=for-the-badge&logo=fastapi&logoColor=%23009688
 [FastAPI-url]: https://fastapi.tiangolo.com/
 [MongoDB.com]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248
