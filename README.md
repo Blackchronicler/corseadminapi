@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -25,8 +23,6 @@
 [![MIT License][license-shield]][license-url]
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -37,7 +33,7 @@
 <h3 align="center">Course Administration API</h3>
 
   <p align="center">
-    API Build
+    A course administration API using FastAPI and MongoDB.
     <br />
     <a href="https://github.com/Blackchronicler/corseadminapi"><strong>Explore the docs »</strong></a>
     <br />
@@ -49,8 +45,6 @@
     <a href="https://github.com/Blackchronicler/corseadminapi/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -78,28 +72,30 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) # Uncomment this if need be to show intro pic of project-->
 
-The aim of this project is to develop a course administration API using FastAPI and MongoDB.
+The goal of this project is to learn how to create a system that processes course-related queries.
+A course administration API will be developed using FastAPI and MongoDB.
 The system will allow users to access course details, view chapters, rate individual chapters, and aggregate ratings.
+The API will be able to:
+
+* Show a comprehensive course overview
+* Fetch a list of all courses
+* List detailed information about certain chapters
+* Record user scores for each chapter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * [![MongDB][MongoDB.com]][MongoDB-url]
 * [![FastAPI][FastAPI.com]][FastAPI-url]
+* [![Docker][Docker.com]][Docker-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -110,7 +106,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -119,21 +117,24 @@ This is an example of how to list things you need to use the software and how to
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/Blackchronicler/corseadminapi.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your API in `config.js`
+
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -144,21 +145,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+* [ ] Parse and insert data into DB
+* [ ] Design API endpoints
+* [ ] Automate testing of API endpoints
+* [ ] Containerize application with docker
 
 See the [open issues](https://github.com/Blackchronicler/corseadminapi/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -176,8 +173,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
@@ -185,16 +180,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://github.com/Blackchronicler/corseadminapi](https://github.com/Blackchronicler/corseadminapi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -204,8 +195,6 @@ Project Link: [https://github.com/Blackchronicler/corseadminapi](https://github.
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -219,8 +208,9 @@ Project Link: [https://github.com/Blackchronicler/corseadminapi](https://github.
 [issues-url]: https://github.com/Blackchronicler/corseadminapi/issues
 [license-shield]: https://img.shields.io/github/license/Blackchronicler/corseadminapi.svg?style=for-the-badge
 [license-url]: https://github.com/Blackchronicler/corseadminapi/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
-[FastAPI.com]:https://img.shields.io/badge/Fastapi-483D8B?style=for-the-badge&logo=fastapi&logoColor=%23009688
-[FastAPI-url]:https://fastapi.tiangolo.com/
-[MongoDB.com]:https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248
-[MongoDB-url]:https://www.mongodb.com/
+[FastAPI.com]: https://img.shields.io/badge/Fastapi-483D8B?style=for-the-badge&logo=fastapi&logoColor=%23009688
+[FastAPI-url]: https://fastapi.tiangolo.com/
+[MongoDB.com]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248
+[MongoDB-url]: https://www.mongodb.com/
+[Docker.com]: https://img.shields.io/badge/Docker-2C3454?style=for-the-badge&logo=docker&logoColor=%232496ED
+[Docker-url]: https://www.docker.com/
