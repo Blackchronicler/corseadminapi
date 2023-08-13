@@ -33,7 +33,7 @@
 <h3 align="center">Course Administration API</h3>
 
   <p align="center">
-    A course administration API using FastAPI and MongoDB.
+    Learning how to build an API using FastAPI and MongoDB.
     <br />
     <a href="https://github.com/Blackchronicler/corseadminapi"><strong>Explore the docs »</strong></a>
     <br />
@@ -98,12 +98,12 @@ The API will be able to:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started [To be updated]
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites [To be updated]
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Installation [To be updated]
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -137,7 +137,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage [To be updated]
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -160,7 +160,7 @@ See the [open issues](https://github.com/Blackchronicler/corseadminapi/issues) f
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated :D**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -176,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,10 +188,8 @@ Project Link: [https://github.com/Blackchronicler/corseadminapi](https://github.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments [To be updated]
 
-* []()
-* []()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
